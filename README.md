@@ -1,6 +1,6 @@
 ## 🎮 프로젝트 | My Games
 ### 🔥 Hellbound Ropes
-[![Hellbound Ropes 이미지](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2591090/extras/ezgif-5-6774f7365b.gif?t=1708634026)](https://store.steampowered.com/app/2591090/Hellbound_Ropes/) <br/>
+<img src="https://github.com/user-attachments/assets/7ada485d-bbcb-4bbe-80c8-63acdd8ac305" width="645" height="360"/><br/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Steam_icon_logo.svg/1024px-Steam_icon_logo.svg.png" width="20" height="20"/> [STEAM](https://store.steampowered.com/app/2591090/Hellbound_Ropes/)ㅤ<img src="https://www.onstove.com/assets/images/default_stove.png" width="20" height="20"/> [STOVE](https://store.onstove.com/ko/games/2657)
 
 > *속도감과 정밀함. 두 가지 대원칙을 바탕으로 5개의 전시에서 받은 100개 이상의 피드백을 반영하여 개선한 게임<br/>
