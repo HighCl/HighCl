@@ -7,7 +7,7 @@
 > Hellbound Ropes입니다.* <br/>
 
 #### 참여 전시<br>
-<img src="[https://github.com/user-attachments/assets/ed4eb280-0784-40b0-99ab-1eb03c1be28f](https://github.com/user-attachments/assets/e7191833-d12b-4a21-abcb-4ec28a5ccab1)" width="150" height="50"/> PlayX4 2023, 2024  
+<img src="https://github.com/user-attachments/assets/e7191833-d12b-4a21-abcb-4ec28a5ccab1" width="150" height="50"/> PlayX4 2023, 2024  
 
 <img src="https://github.com/user-attachments/assets/c0faece7-b99a-482e-b0ab-f52690875c54" width="150" height="50"/> BIC 2024<br>
 외 3개 <span style="color:gray"> (필리핀 ConQuest 2023, 방구석 인디 게임쇼 2023, 핀란드 Korean Indie Game Showcase)</span>
@@ -15,7 +15,7 @@
 <img src="https://github.com/user-attachments/assets/c224762f-54b8-4e49-8764-94a56a03f3a2" width="20" height="20"/> STOVE 슬기로운 데모생활 <img src="https://github.com/user-attachments/assets/ed4eb280-0784-40b0-99ab-1eb03c1be28f" width="20" height="20"/> OP.GG for Desktop(WebGL Demo)<br>
 
 #### 참여 연사<br>
-<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/64746739/439651127-26cfc4b5-4020-4634-9cbd-25f148f296e4.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250501%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250501T161524Z&X-Amz-Expires=300&X-Amz-Signature=993cd3ac4a0cd37e3d5e7c527132b1dfd373762c7a7b9ca6bc409c32f2561e11&X-Amz-SignedHeaders=host"  width="360" height="180"/><br>
+<img src="https://github.com/user-attachments/assets/b6888256-dabf-499b-a025-0906d7547f95"  width="360" height="180"/><br>
 강남 구글 스타트업 캠퍼스 진행. 소문난 주니어 콘퍼런스 5회 연사
 
 ## 🛠️ 기술 스택 | Tech Stack
