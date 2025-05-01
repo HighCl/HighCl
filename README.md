@@ -7,9 +7,9 @@
 > Hellbound Ropes입니다.* <br/>
 
 #### 참여 전시<br>
-<img src="https://github.com/user-attachments/assets/ed4eb280-0784-40b0-99ab-1eb03c1be28f" width="20" height="20"/> PlayX4 2023, 2024  
+<img src="[https://github.com/user-attachments/assets/ed4eb280-0784-40b0-99ab-1eb03c1be28f](https://github.com/user-attachments/assets/e7191833-d12b-4a21-abcb-4ec28a5ccab1)" width="150" height="50"/> PlayX4 2023, 2024  
 
-<img src="https://github.com/user-attachments/assets/c0faece7-b99a-482e-b0ab-f52690875c54" width="20" height="20"/> BIC 2024<br>
+<img src="https://github.com/user-attachments/assets/c0faece7-b99a-482e-b0ab-f52690875c54" width="150" height="50"/> BIC 2024<br>
 외 3개 <span style="color:gray"> (필리핀 ConQuest 2023, 방구석 인디 게임쇼 2023, 핀란드 Korean Indie Game Showcase)</span>
 #### 참여 프로그램</b><br>
 <img src="https://github.com/user-attachments/assets/c224762f-54b8-4e49-8764-94a56a03f3a2" width="20" height="20"/> STOVE 슬기로운 데모생활 <img src="https://github.com/user-attachments/assets/ed4eb280-0784-40b0-99ab-1eb03c1be28f" width="20" height="20"/> OP.GG for Desktop(WebGL Demo)<br>
