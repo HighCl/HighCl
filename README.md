@@ -4,7 +4,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Steam_icon_logo.svg/1024px-Steam_icon_logo.svg.png" width="20" height="20"/> [STEAM](https://store.steampowered.com/app/2591090/Hellbound_Ropes/)ㅤ<img src="https://www.onstove.com/assets/images/default_stove.png" width="20" height="20"/> [STOVE](https://store.onstove.com/ko/games/2657)
 
 > *속도감과 정밀함. 두 가지 대원칙을 바탕으로 5개의 전시에서 받은 100개 이상의 피드백을 반영하여 개선한 게임<br/>
-> Hellbound Ropes입니다.* <br/>
+> Hellbound Ropes입니다.*<br/>
 
 #### 참여 전시<br>
 <table>
@@ -41,7 +41,10 @@
 
 #### 참여 연사<br>
 <img src="https://github.com/user-attachments/assets/b6888256-dabf-499b-a025-0906d7547f95"  width="600" height="300.06"/><br>
-강남 구글 스타트업 캠퍼스 진행. 소문난 주니어 콘퍼런스 5회 연사
+강남 구글 스타트업 캠퍼스 진행. 소문난 주니어 콘퍼런스 5회 연사<br/>
+> *컨퍼런스 주제: 올 한해 여러분이 세웠던 목표와, 이를 이루기 위해 노력했던 과정을 공유해주세요*<br/>
+
+> *발표 주제: 24살 학생 개발자의 좌충우돌 스팀 런칭 도전기*<br/>
 
 ## 🛠️ 기술 스택 | Tech Stack
 
