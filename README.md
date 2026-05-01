@@ -57,8 +57,8 @@
 
 ## 📫 연락하기 | Contact Me
 
-[![Email](https://img.shields.io/badge/Email-fdsa1469@naver.com-red?style=flat&logo=gmail&logoColor=white)](mailto:wooson0308@gamil.com)
-[![Tistory](https://img.shields.io/badge/Tistory_Blog-FF5722?style=flat-square&logo=Tistory&logoColor=white)](https://highcl.tistory.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/highcl)
+[![Tistory](https://img.shields.io/badge/Tistory_Blog-FF5722?style=flat-square&logo=Tistory&logoColor=white)](https://highcl.tistory.com/)
+[![Email](https://img.shields.io/badge/Email-fdsa1469@naver.com-red?style=flat&logo=gmail&logoColor=white)](mailto:wooson0308@gamil.com)
 
 <br/>
