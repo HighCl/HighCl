@@ -15,9 +15,9 @@
       <em>PlayX4 2023, 2024</em>
     </td>
     <td align="center", width="300px">
-      <img src="https://github.com/user-attachments/assets/c0faece7-b99a-482e-b0ab-f52690875c54" alt="BIC 2024" width="200" height="100"/>
+      <img src="https://github.com/user-attachments/assets/c0faece7-b99a-482e-b0ab-f52690875c54" alt="BIC 2023" width="200" height="100"/>
       <br />
-      <em>BIC 2024</em>
+      <em>BIC 2023</em>
     </td>
   </tr>
 </table>
